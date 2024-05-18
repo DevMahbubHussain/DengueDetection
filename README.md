@@ -6,7 +6,7 @@ This project aims to detect Dengue using machine learning techniques.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/DengueDetection.git
+    git clone https://github.com/DevMahbubHussain/DengueDetection.git
     cd DengueDetection
     ```
 
